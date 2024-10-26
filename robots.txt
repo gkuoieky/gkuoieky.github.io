@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://gkuoieky.github.io/zyx/zyx.txt
